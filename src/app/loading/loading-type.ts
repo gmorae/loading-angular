@@ -1,4 +1,4 @@
 export enum LoadingType {
-  LOADING = 'loading-zurich',
+  LOADING = 'loading',
   STOPPED = 'stopped',
 }
